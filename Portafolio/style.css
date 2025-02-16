@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(127, 255, 185, 0.89);
+    color:blue;
+}
+h1{
+    font-weight: bold;
+}
+span{
+    color: crimson;
+    border: 1px solid #22D4FD;
+    padding:5px;
+}
